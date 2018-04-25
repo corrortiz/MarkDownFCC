@@ -1,0 +1,23 @@
+{
+  "name": "markdown_fcc",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "marked": "^0.3.6",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6"
+  }
+}
